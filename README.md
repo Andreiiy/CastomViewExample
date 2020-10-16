@@ -1,2 +1,2 @@
 # CastomViewExample
-Using simple custom View in Android
+Using simple custom View in Android on Kotlin
